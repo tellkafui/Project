@@ -38,4 +38,4 @@ While cleaning the data, we encountered several issues that required attention, 
 ...
 
 ## Author
-Aryee Kwaku Geoffrey
+Mawunyo Kafui Denteh
