@@ -7,7 +7,7 @@ The purpose of this project is to gather facts before venturing into the Indian 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP1 | Data Analysis |  [Funding Analysis](/) | [Indian Start-up Funding Analysis](/) |
+| LP1 | Data Analysis |  [Funding Analysis](/https://www.linkedin.com/posts/kafui-denteh-74644651_activity-7049311454793019392-ktTy?utm_source=share&utm_medium=member_android) | [Indian Start-up Funding Analysis](/) |
 
 
 ## Project Description
